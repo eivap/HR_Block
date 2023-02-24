@@ -1,0 +1,46 @@
+{
+  "versionName": "4.7",
+  "Special_Post": [
+    {
+      "title": "اپلیکیشن وبروید",
+      "small_poster": "https://ibino.ir/wp-content/uploads/2022/08/%DB%B2%DB%B0%DB%B2%DB%B2%DB%B0%DB%B8%DB%B0%DB%B7_%DB%B2%DB%B1%DB%B0%DB%B6%DB%B4%DB%B9.jpg",
+      "special_type": "app",
+      "special_open": "HR.WEBROID",
+      "value": "ویژه"
+    },
+    {
+      "title": "توسعه وب در اندروید با بلاکلی [CSS، HTML، JavaScript]",
+      "small_poster": "http://ibino.ir/wp-content/uploads/2022/07/d9taiqwp0968js9hcn5u.png",
+      "special_type": "blog",
+      "special_open": "http://ibino.ir/web-development/",
+      "value": "ویژه"
+    },
+    {
+      "title": "آیبینو | ibino",
+      "small_poster": "https://static.cdn.asset.aparat.com/avt/43330375-7456__6511.jpg",
+      "uid": "P3vLe",
+      "username": "ibino_official",
+      "value": "ویژه"
+    },
+    {
+      "title": "اچ آر لرن | HR Learn",
+      "small_poster": "https://static.cdn.asset.aparat.com/profile-photo/10292217-84118-b.jpg",
+      "username": "hr_learn",
+      "value": "ویژه",
+      "special_type": "user"
+    },
+    {
+      "title": "قدرت | الگوریتم",
+      "small_poster": "https://static.cdn.asset.aparat.com/profile-photo/4189984-638536-b.jpg",
+      "username": "Pesarariayi",
+      "value": "ویژه",
+      "special_type": "user"
+    }
+  ],
+  "Special_User": {
+    "hr_learn": true,
+    "ibino_official": true,
+    "Pesarariayi": true,
+    "aparat": true
+  }
+}
